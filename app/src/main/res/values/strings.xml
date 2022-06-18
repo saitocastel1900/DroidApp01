@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DroidApp01</string>
+    //アプリ名を示す
+    <string name="app_name">画面部品</string>
+    <string name="tv_msg">お名前入力してください</string>
 </resources>
